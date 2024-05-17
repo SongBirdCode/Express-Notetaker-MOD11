@@ -1,0 +1,25 @@
+{
+  "name": "mod11-express-note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongBirdCode/Express-Note-Taker-MOD11.git"
+  },
+  "keywords": [
+    "Express.js-Note-Taker-MOD11"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "uuid": "^9.0.1"
+  }
+}
